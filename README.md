@@ -1,4 +1,4 @@
-## Hi👋, I am [Sanyam Goel](https://drive.google.com/file/d/1mT6TW0N7cxsktZYu9sK0bdNq0JuraErW/view?usp=sharing)
+## Hi👋, I am [Sanyam Goel](https://drive.google.com/file/d/1ak6ew3eAJPvKQqWyU0CmIwjVIt6XBSAw/view?usp=sharing)
 #### Pre-final year Integrated M.Tech CSE student at Jaypee Institute Of Information Technology
 ---
 - I'm currently working on Data Science and Machine Learning.
