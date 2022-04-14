@@ -1,8 +1,7 @@
 ## Hi👋, I am Sanyam Goel
 #### Pre-final year Integrated M.Tech CSE student at Jaypee Institute Of Information Technology
 ---
-- I'm currently working on Data Science and Machine Learning.
-- I’m looking forward to new opportunities in Machine Learning.
+- I’m looking forward to new opportunities.
 - How to reach me [sanyamgoel10@gmail.com](mailto:sanyamgoel10@gmail.com).
 - Connect with me on [Linkedin](https://www.linkedin.com/in/sanyamgoel10/).
 ---
