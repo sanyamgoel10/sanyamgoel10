@@ -1,5 +1,5 @@
 ## Hi👋, I am Sanyam Goel
-#### Pre-final year Integrated M.Tech CSE student at Jaypee Institute Of Information Technology
+#### Final year Integrated M.Tech CSE student at Jaypee Institute Of Information Technology
 ---
 - I’m looking forward to new opportunities.
 - How to reach me [sanyamgoel10@gmail.com](mailto:sanyamgoel10@gmail.com).
