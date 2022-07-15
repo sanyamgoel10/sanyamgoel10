@@ -1,10 +1,14 @@
-## Hi👋, I am Sanyam Goel
-#### Final year Integrated M.Tech CSE student at Jaypee Institute Of Information Technology
+### Hi👋, I am Sanyam Goel
+Programmer | Python IT Automation | Backend Developer | AWS | GCP | Data Science | ML Enthusiast
+
 ---
-- I’m looking forward to new opportunities.
-- How to reach me [sanyamgoel10@gmail.com](mailto:sanyamgoel10@gmail.com).
+- I'm Final year Integrated M.Tech CSE student at Jaypee Institute Of Information Technology.
+- I'm always looking for opportunities enabling me to learn exciting technologies to boost my passion for programming.
+- Feel free to contact me for potential work opportunities: [sanyamgoel10@gmail.com](mailto:sanyamgoel10@gmail.com).
 - Connect with me on [Linkedin](https://www.linkedin.com/in/sanyamgoel10/).
----
+
+
+<!--
 ### Languages:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
 
@@ -19,8 +23,7 @@
 
 ### OS:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-
-
+-->
 
 
 
