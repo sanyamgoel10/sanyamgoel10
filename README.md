@@ -1,4 +1,4 @@
-### Hi👋, I am Sanyam Goel
+### Hi👋, I'm Sanyam Goel
 Programmer | Python IT Automation | Backend Developer | AWS | GCP | Data Science | ML Enthusiast
 
 ---
