@@ -1,9 +1,10 @@
 ### Hi👋, I'm Sanyam Goel
-Programmer | Python IT Automation | Backend Developer | AWS | GCP | Data Science | ML Enthusiast
+Software Developer at Product based company<Br>
+Tech Stack :- PHP, AWS Lambda, jQuery, NodeJs, HTML, CSS, JavaScript
 
 ---
-- I'm Final year Integrated M.Tech CSE student at Jaypee Institute Of Information Technology.
-- I'm always looking for opportunities enabling me to learn exciting technologies to boost my passion for programming.
+- Completed Integrated M.Tech CSE at Jaypee Institute Of Information Technology.
+- I'm always looking for opportunities that enable me to learn exciting technologies to boost my passion for programming.
 - Feel free to contact me for potential work opportunities: [sanyamgoel10@gmail.com](mailto:sanyamgoel10@gmail.com).
 - Connect with me on [Linkedin](https://www.linkedin.com/in/sanyamgoel10/).
 
