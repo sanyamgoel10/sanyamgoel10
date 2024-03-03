@@ -1,6 +1,6 @@
 ### Hi👋, I'm Sanyam Goel
-Software Developer at Product based company<Br>
-Tech Stack :- PHP, AWS Lambda, jQuery, NodeJs, HTML, CSS, JavaScript
+Software Developer company<Br>
+Tech Stack :- Node.js, Express.js, AWS Lambda, PHP, jQuery, HTML, CSS, JavaScript
 
 ---
 - Completed Integrated M.Tech CSE at Jaypee Institute Of Information Technology.
