@@ -1,5 +1,5 @@
 ### Hi👋, I'm Sanyam Goel
-Software Developer company<Br>
+Software Developer<Br>
 Tech Stack :- Node.js, Express.js, AWS Lambda, PHP, jQuery, HTML, CSS, JavaScript
 
 ---
