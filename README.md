@@ -1,6 +1,5 @@
 ### Hi👋, I'm Sanyam Goel
 Software Developer<Br>
-Tech Stack :- Python, Node.js, Express.js, AWS Lambda, PHP, jQuery, HTML, CSS, JavaScript
 
 ---
 - Completed Integrated M.Tech CSE at Jaypee Institute Of Information Technology.
