@@ -10,10 +10,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** JavaScript, PHP, Python, C++  
-- **Backend:** Node.js, Express.js, Flask  
-- **Database:** MySQL, SQLite, NoSQL  
-- **Cloud & DevOps:** AWS (Lambda, API Gateway, S3, DynamoDB, EC2)  
+- **Languages:** JavaScript, Python, C++, PHP
+- **Backend:** Node.js, Express.js, FastAPI, Flask  
+- **Database:** MySQL, PostgreSQL, SQLite, NoSQL  
+- **Cloud & DevOps:** AWS (Lambda, API Gateway, S3, DynamoDB, EC2), GCP  
 - **Other Skills:** REST APIs, WebSockets, Microservices
 
 ---
