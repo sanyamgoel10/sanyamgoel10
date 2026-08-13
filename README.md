@@ -21,9 +21,12 @@ I build production backend systems and, more recently, agentic AI pipelines. Cur
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sanyamgoel10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanyamgoel10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=sanyamgoel10&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <br>
+  <img src="https://github-stats-extended-frontend-phi-swart.vercel.app/api?username=sanyamgoel10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended-frontend-phi-swart.vercel.app/api/top-langs/?username=sanyamgoel10&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165"/>
 </p>
+
 
 ## 🏢 Experience
 
